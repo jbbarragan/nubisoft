@@ -1,0 +1,17 @@
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\bin\Debug\net9.0\UserManagement.Infrastructure.deps.json
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\bin\Debug\net9.0\UserManagement.Infrastructure.runtimeconfig.json
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\bin\Debug\net9.0\UserManagement.Infrastructure.dll
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\bin\Debug\net9.0\UserManagement.Infrastructure.pdb
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\bin\Debug\net9.0\UserManagement.Domain.dll
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\bin\Debug\net9.0\UserManagement.Domain.pdb
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\UserManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\UserManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\UserManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\UserManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\UserManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\UserMana.ED8CE3B0.Up2Date
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\UserManagement.Infrastructure.dll
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\refint\UserManagement.Infrastructure.dll
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\UserManagement.Infrastructure.pdb
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\UserManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Infrastructure\obj\Debug\net9.0\ref\UserManagement.Infrastructure.dll
