@@ -4,7 +4,6 @@ using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 👇 CORS solo para tu frontend React
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
@@ -13,7 +12,7 @@ builder.Services.AddCors(options =>
               .AllowAnyHeader());
 });
 
-// Controllers y Swagger
+// Swagger
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -41,7 +40,6 @@ if (app.Environment.IsDevelopment())
     });
 }
 
-// 👇 Habilita CORS
 app.UseCors("AllowReactApp");
 
 app.UseHttpsRedirection();

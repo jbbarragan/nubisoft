@@ -9,3 +9,4 @@ C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Dom
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Domain\obj\Debug\net9.0\refint\UserManagement.Domain.dll
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Domain\obj\Debug\net9.0\UserManagement.Domain.pdb
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Domain\obj\Debug\net9.0\ref\UserManagement.Domain.dll
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Domain\obj\Debug\net9.0\UserManagement.Domain.sourcelink.json

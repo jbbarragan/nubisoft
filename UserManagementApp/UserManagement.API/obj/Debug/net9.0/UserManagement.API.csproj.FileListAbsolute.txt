@@ -7,7 +7,6 @@ C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\obj\Debug\net9.0\UserManagement.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\bin\Debug\net9.0\appsettings.json
-C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\bin\Debug\net9.0\user-management-frontend\package.json
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\bin\Debug\net9.0\UserManagement.API.staticwebassets.endpoints.json
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\bin\Debug\net9.0\UserManagement.API.exe
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\bin\Debug\net9.0\UserManagement.API.deps.json
@@ -197,3 +196,4 @@ C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jbbar\OneDrive\Documentos\nubisoft\UserManagementApp\UserManagement.Api\obj\Debug\net9.0\UserManagement.API.sourcelink.json
